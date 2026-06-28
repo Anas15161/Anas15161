@@ -79,7 +79,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas15161&show_icons=true&theme=tokyonight" alt="Anas's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas15161&show_icons=true&theme=tokyonight&commits_year=2026" alt="Anas's GitHub Stats (2026)" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas15161&theme=tokyonight" alt="Anas's GitHub Streak" />
 </div>
 
