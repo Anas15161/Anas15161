@@ -79,10 +79,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas15161&amp;show_icons=true&amp;theme=tokyonight&amp;commits_year=2026&amp;v=1" alt="Anas's GitHub Stats (2026)" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas15161&amp;theme=tokyonight" alt="Anas's GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas15161&amp;layout=compact&amp;theme=tokyonight&amp;v=1" alt="Top Languages" />
-</div>
